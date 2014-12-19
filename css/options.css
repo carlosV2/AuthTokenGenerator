@@ -1,0 +1,9 @@
+div.white_bg
+{
+    background-color: #fff;
+}
+
+div.scrollable
+{
+    overflow-y: auto;
+}
